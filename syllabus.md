@@ -6,37 +6,40 @@ description: >-
 nav_order: 2
 ---
 
+<!-- prettier-ignore-start -->
+
 # 📖 Syllabus
+
 {:.no_toc}
 
 ## Table of contents
-{: .no_toc .text-delta }
 
 1. TOC
 {:toc}
+<!-- prettier-ignore-end -->
 
 ---
 
 ## About 🧐
 
-DSC 80 serves as a bridge between lower-division and upper-division data
-science courses. In DSC 80, students will gain proficiency with the data
-science life cycle and learn many of the fundamental principles and techniques
-of data science spanning algorithms, statistics, machine learning,
-visualization, and data systems.
+Data visualization is one of our most powerful cognitive tools to make sense of
+large amounts of data. Well-designed visualizations enable us to use visual
+processing rather than calculation, allowing to "see" patterns in data. DSC 106
+is a project-centered course that covers fundamental principles and techniques
+in data visualization. By the end of the course, you will:
 
-After DSC 80, students will be prepared for data science internships and
-interviews, will have the tools to create their own data science portfolios,
-and will have the maturity necessary to succeed in upper-division machine
-learning and statistics courses.
+- Understand and apply key visualization techniques and theory.
+- Design, evaluate, and critique visualization designs.
+- Implement interactive data visualizations for the web using D3.js.
+- Develop a substantial visualization project.
 
-**Prerequisites:** DSC 30 and DSC 40A.
+**Prerequisites:** DSC 80.
 
 ---
 
 ## Getting Started 💻
 
-The course website, [dsc80.com](https://dsc80.com), will contain links to all
+The course website, [dsc106.com](https://dsc106.com), will contain links to all
 course content. There are also a few things you'll need to do to get set up.
 
 ### Websites
@@ -46,22 +49,21 @@ You'll need to make accounts on the following sites:
 - **Ed:** We’ll be using Ed as our course message and discussion board. More
   details are in the [Communication](#communication-) section below. If you
   didn’t already get an invitation to our Ed course, [sign up
-  here](https://edstem.org/us/join/NfMDxv).
+  here]().
 
-- **Gradescope:** You’ll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/625393). This is where all of
+- **Gradescope:** You’ll submit all projects to
+  [Gradescope](). This is where all of
   your grades will live as well. Most of the assignments will be coding
   assignments. Parts of these assignments will be manually graded, but most of
   them will be autograded. You should have received an email invitation for
   Gradescope, but if not please let us know as soon as possible (preferably via
   Ed).
 
-- **GitHub:** Like in DSC 30, you'll _access_ all course content (lecture
-  slides and assignments) by _pulling_ our course GitHub repository. That repo
-  is here:
-  [github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa).
-  In most assignments, you won't need to _push_ anything to GitHub, however in
-  Projects 3 and 5 you will, and so you'll need to have an account by then.
+- **GitHub:** Like in DSC 30 and 80, you'll _access_ all course content
+  (lecture slides and assignments) by _pulling_ our course GitHub repository.
+  That repo is here:
+  [https://github.com/dsc-courses/dsc106-wi24](https://github.com/dsc-courses/dsc106-wi24).
+  In most assignments, you won't need to _push_ anything to GitHub.
 
 - **Zoom (optional):** To access remote office hours, if you'd like.
 
@@ -72,12 +74,6 @@ Note that we will not be using Canvas for anything this quarter.
 As soon as you are able to, go follow the steps in the [Tech
 Support](../tech_support) page of the course website to set up your development
 environment for the course.
-
-### Forms
-
-Please fill out the [Welcome
-Survey](https://docs.google.com/forms/d/e/1FAIpQLScGBRJrHxMPa8ix46FFDPxn9UhQoVhWOKMQ41ZTypWoj_OEAA/viewform?usp=sf_link)
-to tell us a bit more about yourself and tell us if you need an alternate exam.
 
 ---
 
@@ -109,113 +105,60 @@ post instead.**
 ### Lectures
 
 Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in
-[WLH 2005]. Attendance is not required, **though you are encouraged to
-attend in-person if you are able to**. Lectures will be podcasted.
+[CENTR 115] and 5:00-6:20PM in [CENTR 119]. **Attendance is required as part of
+your participation grade (detailed below)**. Lectures will be podcasted, and
+lecture slides will be posted before class.
 
-Lecture notebooks will be your main resource in this class. You can access
-them, along with all course materials, by pulling from the course GitHub
-repository,
-[github.com/dsc-courses/dsc80-2023-fa](https://github.com/dsc-courses/dsc80-2023-fa).
-We will also link HTML previews of each lecture notebook from the course
-homepage; you can use these to annotate the lecture notebooks with a tablet, if
-you'd like.
+### Participation
 
-The course textbook is called _Learning Data Science_ and is available online
-via your UCSD O'Reilly library subscription or at [https://learningds.org/]().
+Developing expertise in data visualization also means being able to clearly
+communicate, critique, and explain data visualizations to others. To develop
+this skill, participation in lecture will count for 8% of your course grade. To
+fulfill the participation expectations for a particular week, you must attend
+both lectures. Participation will be tracked using online exercises given
+during class. The lowest two weeks will be dropped.
 
-### Discussions and Lab Reflections
+### Discussions
 
-Starting in Week 1, discussions will be held in-person on Friday from
-10-10:50AM in [Center Hall 212]. Discussion sections will be podcasted.
-
-You'll spend the vast majority of your time in this course on [labs](#labs) and
-[projects](#projects), which you'll read more about in the sections below. The
-labs you complete each week will give you hands-on practice with the tools and
-techniques introduced in lectures. While completing the labs is important, it's
-also important to _reflect_ on your lab work once grades are released, and
-think about how you could have approached problems differently (e.g. more
-efficiently).
-
-Therefore, in discussion sections on Friday, we discuss solutions to a _subset_
-of the lab that was due that Monday (4 days **before** discussion). When you
-attend, you'll have a chance to discuss your implementation with course staff
-and hear how others attempted the problems. Hopefully, you'll leave with a
-stronger understanding of the learning objectives of the lab.
-
-To encourage you to attend and reflect, we will offer extra credit to those who
-do **all 3** of the following:
-
-1. Submit the lab.
-1. Attend discussion section in-person on Friday.
-1. Satisfactorily complete a **Lab Reflection** form for the lab that was taken
-   up in discussion by **Friday** at 11:59PM. The reflection form, hosted on
-   Gradescope, will ask you to comment on how your answers compared to the
-   solution and how you could've approached the problems differently (even if
-   you received full credit on the problems that were taken up).
-
-Since there are 8 labs, there will be 8 lab reflections and 8 discussion
-sections in which we take up lab solutions. For each lab **that you submit**,
-if you attend the corresponding discussion section **and** complete the lab
-reflection form, you will receive 0.25% of extra credit added to your overall
-grade. This can add up to 0.25% \* 8 = **2%** of extra credit for your overall
-grade.
-
-Note that:
-
-- To earn extra credit for a particular lab, you must submit the lab, attend
-  discussion, **and** complete the reflection form to receive the EC. If you
-  fail to do all 3 of these things, you won't receive extra credit.
-- We will be manually grading the Lab Reflection forms for completion. In order
-  to receive credit, you'll need to provide meaningful responses. Simply saying
-  "I could've made my code more efficient" is not enough to receive credit –
-  what was suboptimal about your implementation? What benefits and drawbacks
-  are there to the solutions you heard in discussion?
+We will not be using the scheduled discussion sections for this course. We
+encourage you to attend office hours instead.
 
 ### Labs
 
-There will be **9 lab assignments** due weekly throughout the quarter. Each lab
-assignment will consist of a mixture of coding and free response questions.
-Coding questions will ask you to fill in the body of a function. Public tests
-are usually provided so that you can make sure that you\'re on the right track
-(_similar to_ DSC 20), however, your submission will be graded using a private
-autograder with hidden tests.
+There will be **7 lab assignments** due weekly throughout the quarter. Each lab
+assignment is designed to be a walkthrough of practical material that
+you will use for your projects. Labs are meant to serve as [worked
+examples][worked examples]: the solution code will be given to you as part of
+the lab. To receive credit for labs, you will need to complete the lab and then
+get checked off during office hours by a TA. The check off requirements will be
+clearly described at the end of each lab assignment.
+
+[worked examples]: https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/
 
 Each lab is worth the same amount, but the lowest lab will be dropped when
-calculating your final score. Labs will be released on Tuesdays and due on
-**Mondays** at 11:59PM.
+calculating your final score. Labs will be released on Fridays and due on the
+following **Fridays** at 11:59PM.
 
-You will access labs (and projects) by pulling the course GitHub repository.
+You will access labs by pulling the course GitHub repository.
 
 ### Projects
 
-There will be **5 projects** due every other week throughout the quarter. Like
-labs, projects consist of coding and free response questions. As their name
-implies, however, projects are more open-ended and allow you to simulate
-applying your data science skills in practical situations. You can think of the
-projects as being mini-take-home-exams that track your _practical_ skills
-throughout the quarter (whereas the exams themselves test for conceptual
-understanding).
-
-Projects are due bi-weekly. However, the week _before_ a project is due, there
-will often be a _project checkpoint_. This checkpoint will ensure that you\'re
-on-track to complete the project on time, and should (hopefully) be a source of
-easy points.
-
-The last project, Project 5, will be due during finals week, and can be thought
-of as a practical component of the Final Exam.
-
-Note that, unlike labs, the lowest project score is not dropped. Projects will
-be released on Tuesdays and due on **Wednesday** at 11:59PM.
+There will be **4 projects** due throughout the quarter. The projects are
+open-ended and are the primary focus of the course. As such, our standards for
+grading will be similar to how portfolio pieces are evaluated for
+internship/research lab/job applications --- we expect your best work! The
+first three projects are **solo** projects. For the final project, you may work
+in pairs.
 
 **Working in Pairs**
 
-You may work together on projects (and projects only!) with a partner. If you
-work with a partner, you are both required to actively contribute to all parts
-of the project. You must both be working on the assignment at the same time
-together, either physically or virtually on a Zoom call. You are encouraged to
-follow the pair programming model, in which you work on just a single computer
-and alternate who writes the code and who thinks about the problems at a high
-level.
+You may work together on the final project (and only the final project!) with a
+partner. If you work with a partner, you are both required to actively
+contribute to all parts of the project. You must both be working on the
+assignment at the same time together, either physically or virtually on a Zoom
+call. You are encouraged to follow the pair programming model, in which you
+work on just a single computer and alternate who writes the code and who thinks
+about the problems at a high level.
 
 In particular, you **cannot** split up the project and each work on separate
 parts independently.
@@ -224,7 +167,6 @@ If you work with a partner:
 
 - Only one partner needs to submit the project on Gradescope; this partner
   should add the other partner to their submission.
-- You must also submit the checkpoint together.
 - You and your partner will receive the same score on any submissions you make
   together.
 
@@ -234,8 +176,6 @@ be engaged in the process), please first address your concerns to your partner,
 and try to agree on what should be done to make the partnership work well for
 both of you. If that approach is not successful, explain the issues to the
 instructors, who will work with you and your partner to improve the situation.
-
-You may use different partners on different projects.
 
 **Note that you may not work with partners on lab assignments, however you're
 encouraged to discuss all assignments with others at a conceptual level in
@@ -254,41 +194,10 @@ course website for the most up-to-date schedule and instructions.
 To summarize all of the events and deadlines, refer to this general weekly
 schedule (which is subject to change in any given week):
 
-| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday     | Saturday |
-| ------ | ------ | ------- | --------- | -------- | ---------- | -------- |
-|        |        | Lecture |           | Lecture  |            |          |
-|        |        |         |           |          | Discussion |          |
-| | <span style='color:red'><b>Lab due</b></span> | | <span style='color:red'><b>Project/checkpoint due</b></span> | | <span style='color:red'><b>Lab reflection due (extra credit)</b></span> | |
-
----
-
-## Exams 📝
-
-This class has one Midterm Exam and one Final Exam. Exams are cumulative,
-though the Final Exam will emphasize material after the Midterm Exam.
-
-- **Midterm Exam**: Thursday, November 2nd, 3:30-4:50PM, WLH 2005
-  (during lecture)
-
-- **Final Exam:** Monday, December 11th, 3:00-6:00PM, location TBD
-
-**Both exams will be administered in-person**. If you have conflicts with
-either of the exams, please let us know on the [Welcome
-Survey](https://docs.google.com/forms/d/e/1FAIpQLScGBRJrHxMPa8ix46FFDPxn9UhQoVhWOKMQ41ZTypWoj_OEAA/viewform?usp=sf_link).
-
-### Redemption Policy
-
-The Final Exam will consist of two parts: a “Midterm” section and a
-“post-Midterm” section. If you do better on the “Midterm” section of the Final
-Exam than you did on the original Midterm Exam, your score on the “Midterm”
-section will replace your original Midterm Exam score. This lowers the stakes
-of the Midterm Exam and gives you two opportunities to demonstrate your
-understanding of the content from the first half of the course. This also means
-that you can miss the Midterm Exam for any reason and have the score be
-replaced by your score on the “Midterm” section of the Final Exam (though we do
-not recommend this).
-
-**You must take the Final Exam to pass the course.**
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday                                                    | Saturday |
+| ------ | ------ | ------- | --------- | -------- | --------------------------------------------------------- | -------- |
+|        |        | Lecture |           | Lecture  |                                                           |          |
+|        |        |         |           |          | <span style='color:red'><b>Lab and Project due</b></span> |          |
 
 ---
 
@@ -298,17 +207,14 @@ not recommend this).
 
 Here is how we'll compute your grade:
 
-| Component                               | Weight              | Notes                           |
-| --------------------------------------- | ------------------- | ------------------------------- |
-| Labs                                    | 30%                 | 3.75% per lab, lowest dropped   |
-| Projects                                | 35%                 | 7% per project, no drops        |
-| Project Checkpoints                     | 5%                  | 1% per project, no drops\*      |
-| Midterm Exam                            | 10%                 | see the Redemption Policy above |
-| Final Exam                              | 20%                 |                                 |
-| Discussion Attendance + Lab Reflections | 2% (extra credit)   | 0.25% per reflection            |
-
-\*Since Projects 3 and 5 do not have checkpoints, everyone who submits Projects
-3 and 5 will automatically receive the 1% checkpoint credit.
+| Component     | Weight | Notes                                  |
+| ------------- | ------ | -------------------------------------- |
+| Participation | 8%     | 1% per week, 2 lowest weeks dropped    |
+| Labs          | 12%    | 2% per lab, 1 lowest lab dropped       |
+| Project 1     | 10%    |                                        |
+| Project 2     | 15%    | 10% for submission, 5% for peer review |
+| Project 3     | 15%    | 10% for submission, 5% for peer review |
+| Final Project | 40%    |                                        |
 
 ### Late Policy, Slip Days, and Drops
 
@@ -322,13 +228,13 @@ You have **6 "slip days"** to use throughout the quarter. A slip day extends
 the deadline of an assignment by 24 hours. The number of slip days you can use
 on an assignment depends on the kind of assignment:
 
-- On labs, you may use up to 1 slip day. Labs will not be accepted more than 24
-  hours after the deadline.
-- On projects and project checkpoints, you may use up to 2 slip days. These
+- On labs, you may use up to 1 slip day. Since labs are due on Fridays and
+  require a TA to check off, you may get checked off on the following Monday
+  after a lab deadline to use 1 slip day.
+- On projects, you may use up to 2 slip days. These
   assignments will not be accepted more than 48 hours after the deadline. Note
-  that you will not be able to use slip days on Project 5.
-- You may not use slip days on lab reflection assignments. These assignments
-  will not be accepted after the original deadline.
+  that you will not be able to use slip days on the Final Project Deliverables
+  (due at the end of the quarter).
 
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an
@@ -354,49 +260,14 @@ earlier lab that isn’t weighted as much in your grade.
 
 ### Regrade Requests
 
-Most of the labs and projects are autograded, but some questions are manually
-graded. If you feel that there in an error in the autograder or that the manual
-grader has made a mistake, you may submit a regrade request within **three
-days** of the grades being released. If you do not submit a regrade request
-within three days, your original grade will be final.
-
-**Regrade Requests for Manually Graded Problems**
+If you feel that there in an error in grading, you may submit a regrade request
+within **two days** of the grades being released. If you do not submit a
+regrade request within two days, your original grade will be final.
 
 To submit a regrade request for a manually graded problem, make the regrade
 request directly on Gradescope. Note that part of your grade is clarity, so if
 your answer was mostly right but unclear you may still not be eligible for full
 credit.
-
-**Regrade Requests for Autograded Problems**
-
-To submit an autograder regrade request, please fill out the [Autograder
-Regrade Request Form](https://forms.gle/HmKyzJ7rEoUCM4mb8).
-
-The autograder is very picky: it expects your assignments to have exactly the
-correct file names, all functions must be named correctly, etc. If these are
-wrong, your code may not run and the autograder may assign zero points. This is
-a **grading catastrophe 😧**.
-
-Grading catastrophes are preventable! After submitting your assignment, always
-wait around to see the output of the Gradescope grader and ensure that it runs
-properly. Also, be sure to submit your assignment (or at least part of it) to
-Gradescope with enough time before the deadline to get help if there is a
-strange autograder problem.
-
-In the case that you submit code that doesn't run and discover this at a later
-date, you have some options:
-
-1.  If it is still before the late deadline, you may use slip days to fix your
-    code and re-submit. Note that you're free to do this even if your code runs
-    – this is just making use of the normal slip day mechanism to submit an
-    assignment late.
-2.  If it is past the late deadline **and** your code requires only minor fixes
-    (e.g., the file name is wrong) we will fix your code at the cost of **2**
-    slip days. Note that these slip days are in addition to any slip days you
-    already used on the assignment. You can submit a catastrophe regrade
-    request the same way you submit a regular autograder regrade request, by
-    filling out the [Autograder Regrade Request
-    Form](https://forms.gle/HmKyzJ7rEoUCM4mb8).
 
 ### Incompletes
 
@@ -436,7 +307,7 @@ We’re in this together 😎.
 
 ## Collaboration Policy and Academic Integrity 🤝
 
-DSC 80 is known for being a rigorous but rewarding course. While you will be
+DSC 106 is known for being a rigorous but rewarding course. While you will be
 challenged this quarter, we will be offering you plenty of support through
 office hours and Ed. Make good use of these resources, and you will be able to
 succeed in this course.
@@ -469,13 +340,14 @@ integrity. Ignorance of the rules will not excuse you from any violations.
 
 ### What counts as cheating?
 
-In DSC 80, you can read books, surf the web, talk to your friends and the DSC
-80 staff to get help understanding the concepts you need to know to complete
-your assignments. However, all code must be written by you (or, in the instance
-of projects, together with your partner).
+In DSC 106, you can read books, surf the web, get inspiration from previous
+work or AI tools like ChatGPT, talk to your friends and the DSC 106 staff to
+get help understanding the concepts you need to know to complete your
+assignments. However, all code must be written by you (or, in the instance of
+projects, together with your partner).
 
-The following activities are considered cheating and are not allowed in DSC 80
-(not an exhaustive list):
+The following activities are considered cheating and are not allowed (not an
+exhaustive list):
 
 - Using or submitting code acquired from other students (except from your pair
   programming partner during projects), the web, or any other resource not
@@ -484,14 +356,12 @@ The following activities are considered cheating and are not allowed in DSC 80
   only
 - Having any other person complete any part of your assignment on your behalf
 - Completing an assignment on behalf of someone else
-- Providing code, exam questions, or solutions to any other student in the
-  course
+- Providing code to any other student in the course
 - Splitting up project questions with your pair programming partner and each
   working on different questions
-- Collaborating with others on exams
 
 The following activities are examples of appropriate collaboration and are
-allowed in DSC 80 (not an exhaustive list):
+allowed in (not an exhaustive list):
 
 - **(new) Using AI code generation tools, such as GitHub Copilot and ChatGPT,
   to help write your code**
@@ -502,7 +372,7 @@ allowed in DSC 80 (not an exhaustive list):
   the exam after the exam is complete
 - Using code provided in class, by the textbook or any other assigned reading
   or video, with attribution
-- Google searching for documentation on Python or `pandas`
+- Using Google to search for documentation.
 - Working together with other students on assignments without copying or
   sharing answers
 - Posting a question about your approach to a problem on Ed, without sharing
@@ -574,9 +444,9 @@ you, including:
 
 ## Acknowledgements 🙏
 
-This offering of DSC 80 builds off of prior offerings by Tauhidur Rahman, Suraj
-Rampure, Justin Eldridge, Marina Langlois, and Aaron Fraenkel. Along with the
-help of their tutors and TAs, they developed much of the content that we will
-use in this course.
+Materials for this course have been adapted from classes taught by **Soohyun
+Nam Liao** and **Jared Wilber** at UCSD, **Jeffrey Heer** and **Leilani
+Battle** at UW, **Arvind Satyanarayan** at MIT, and **Maneesh Agrawala** and
+**Michael Bernstein** at Stanford University.
 
 ---
