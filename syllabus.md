@@ -9,13 +9,14 @@ nav_order: 2
 <!-- prettier-ignore-start -->
 
 # 📖 Syllabus
-
 {:.no_toc}
 
 ## Table of contents
+{:.no_toc}
 
 1. TOC
 {:toc}
+
 <!-- prettier-ignore-end -->
 
 ---
@@ -105,18 +106,41 @@ post instead.**
 ### Lectures
 
 Lectures will be held in-person on Tuesday and Thursday from 3:30-4:50PM in
-[CENTR 115] and 5:00-6:20PM in [CENTR 119]. **Attendance is required as part of
-your participation grade (detailed below)**. Lectures will be podcasted, and
-lecture slides will be posted before class.
+[CENTR 115] and 5:00-6:20PM in [CENTR 119]. **Lecture attendance is not
+strictly required, but is one option for earning your participation grade
+(detailed below)**. Lectures will be podcasted, and lecture slides will be
+posted before class.
 
 ### Participation
 
 Developing expertise in data visualization also means being able to clearly
 communicate, critique, and explain data visualizations to others. To develop
-this skill, participation in lecture will count for 8% of your course grade. To
-fulfill the participation expectations for a particular week, you must attend
-both lectures. Participation will be tracked using online exercises given
-during class. The lowest two weeks will be dropped.
+this skill, participation in class will count for 8% of your course grade. Each
+week of the course will count for 1% of your grade, and the lowest two weeks
+will be dropped. There are **3 options** for fulfilling the participation
+expectations for a particular week:
+
+1. **Attend both lectures and participate in the lecture exercises.**
+   Participation will be tracked using an online form given during class.
+
+2. **Share and critique at least 1 interesting data visualization on Ed that
+   hasn't already been shared during class.** To receive credit, the critique
+   needs to have at least 3 paragraphs of around 3-4 sentences each. The three
+   paragraphs should:
+
+   1. Summarize the visualization and describe how it connects to a lecture
+      concept from the current week or the previous week. If a dataset for the
+      visualization is publicly available, provide a link.
+   2. Describe the strengths of this particular visualization.
+   3. Describe the weaknesses of this particular visualization.
+
+3. **Respond to 2 different visualization critiques from other students on
+   Ed.** To receive credit, each response needs to have at least 2 paragraphs
+   of around 3-4 sentences each. The paragraphs should:
+
+   1. Explain what parts of the critique you agree and disagree with.
+   2. Suggest an improvement for the visualization. You can sketch out your
+      improved visualization or write a program to generate it.
 
 ### Discussions
 
@@ -135,18 +159,18 @@ clearly described at the end of each lab assignment.
 
 [worked examples]: https://tll.mit.edu/teaching-resources/how-people-learn/worked-examples/
 
-Each lab is worth the same amount, but the lowest lab will be dropped when
-calculating your final score. Labs will be released on Fridays and due on the
-following **Fridays** at 11:59PM.
+Each lab is worth 2% of your final grade, and the lowest lab grade will be
+dropped. Labs will be released on Fridays and due on the following **Fridays**
+at 11:59PM.
 
 You will access labs by pulling the course GitHub repository.
 
 ### Projects
 
 There will be **4 projects** due throughout the quarter. The projects are
-open-ended and are the primary focus of the course. As such, our standards for
-grading will be similar to how portfolio pieces are evaluated for
-internship/research lab/job applications --- we expect your best work! The
+open-ended and are the primary focus of the course. **As such, our standards for
+grading will be similar to the way portfolio pieces are evaluated for
+internship/research lab/job applications --- we expect your best work!** The
 first three projects are **solo** projects. For the final project, you may work
 in pairs.
 
@@ -231,10 +255,10 @@ on an assignment depends on the kind of assignment:
 - On labs, you may use up to 1 slip day. Since labs are due on Fridays and
   require a TA to check off, you may get checked off on the following Monday
   after a lab deadline to use 1 slip day.
-- On projects, you may use up to 2 slip days. These
-  assignments will not be accepted more than 48 hours after the deadline. Note
-  that you will not be able to use slip days on the Final Project Deliverables
-  (due at the end of the quarter).
+- On projects, you may use up to 2 slip days. Projects will not be
+  accepted more than 48 hours after the deadline. Note that you will not be
+  able to use slip days on the Final Project Deliverables due on Saturday,
+  March 16, 2024.
 
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an
@@ -448,5 +472,9 @@ Materials for this course have been adapted from classes taught by **Soohyun
 Nam Liao** and **Jared Wilber** at UCSD, **Jeffrey Heer** and **Leilani
 Battle** at UW, **Arvind Satyanarayan** at MIT, and **Maneesh Agrawala** and
 **Michael Bernstein** at Stanford University.
+
+The class draws heavily on materials and examples found online, and we try our
+best to give credit by linking to the original source. Please contact us if you
+find materials where credit is missing or that you would rather have removed.
 
 ---

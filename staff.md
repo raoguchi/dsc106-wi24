@@ -7,6 +7,9 @@ nav_order: 6
 
 # 👩‍🏫 Staff
 
+{: .warning }
+**🛠️ Page under construction**
+
 ## Instructor
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
@@ -22,6 +25,7 @@ nav_order: 6
 {% endfor %}
 
 {% assign staff = site.staffers | where: 'role', 'Tutor' %}
+
 <div class="role">
   {% for staffer in staff %}
   {{ staffer }}
