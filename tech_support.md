@@ -89,7 +89,7 @@ within JupyterLab, you can:
 
 ## Other labs and projects
 
-### Git
+### [Git](https://git-scm.com/)
 
 All of our course materials, including your assignments, are hosted on
 GitHub in [this Git repository](https://github.com/dsc-courses/dsc106-wi24). This means that you'll need to download and use
@@ -131,7 +131,7 @@ At this stage, if you `git pull`, it should work. You should double-check that y
 
 
 
-### VS Code
+### [VS Code](https://code.visualstudio.com/)
 
 To create, write, and edit our code, we are going to use a code editor. For this class, we are going to provide support for VS Code. If you want to use another code editor, feel free to do so, but keep in mind that we may not be able to recreate the problems that you may run into. You may download VS Code from [here](https://code.visualstudio.com/).
 

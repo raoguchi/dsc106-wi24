@@ -68,7 +68,7 @@ You'll need to make accounts or join the class on the following sites.
 
 Note that we will not be using Canvas for anything this quarter.
 
-:warning:If you enroll in the class later than 1/5, please join edsteam use [this link](https://edstem.org/us/join/6jfeKP) and join Gradescope using entry code: **B2G6ZN** manually. 
+⚠️If you enroll in the class later than 1/5, please join edsteam use [this link](https://edstem.org/us/join/6jfeKP) and join Gradescope using entry code: **B2G6ZN** manually. 
 
 ### Development Environment
 
