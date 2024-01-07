@@ -146,6 +146,9 @@ This is an extension that will help us keep our code clean and tidy. Click "Inst
 This will host a local server in our workspace for us to preview our web pages on. Click "Install" on the [webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server). It will redirect to your VSCode; then, click "Install" again to install the extension.
 
 
+## Any question?
+
+The easiest and fastest way to reach our support for technical matters is by posting on [edstem](https://edstem.org/us/courses/51219/discussion/). You may also go to OHs. 
 
 <!--
 
