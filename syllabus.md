@@ -50,15 +50,14 @@ You'll need to make accounts on the following sites:
 - **Ed:** We’ll be using Ed as our course message and discussion board. More
   details are in the [Communication](#communication-) section below. If you
   didn’t already get an invitation to our Ed course, [sign up
-  here]().
+  here](https://edstem.org/us/join/6jfeKP).
 
 - **Gradescope:** You’ll submit all projects to
-  [Gradescope](). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/693205). This is where all of
   your grades will live as well. Most of the assignments will be coding
   assignments. Parts of these assignments will be manually graded, but most of
   them will be autograded. You should have received an email invitation for
-  Gradescope, but if not please let us know as soon as possible (preferably via
-  Ed).
+  Gradescope, but if not please join Gradescope using entry code: B2G6ZN.
 
 - **GitHub:** Like in DSC 30 and 80, you'll _access_ all course content
   (lecture slides and assignments) by _pulling_ our course GitHub repository.
