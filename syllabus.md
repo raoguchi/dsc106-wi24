@@ -45,7 +45,7 @@ course content. There are also a few things you'll need to do to get set up.
 
 ### Websites
 
-You'll need to make accounts on the following sites:
+You'll need to make accounts or join the class on the following sites. 
 
 - **Ed:** We’ll be using Ed as our course message and discussion board. More
   details are in the [Communication](#communication-) section below. If you
@@ -67,6 +67,8 @@ You'll need to make accounts on the following sites:
 - **Zoom (optional):** To access remote office hours, if you'd like.
 
 Note that we will not be using Canvas for anything this quarter.
+
+:warning:If you enroll in the class later than 1/5, please join edsteam use [this link](https://edstem.org/us/join/6jfeKP) and join Gradescope using entry code: **B2G6ZN** manually. 
 
 ### Development Environment
 
