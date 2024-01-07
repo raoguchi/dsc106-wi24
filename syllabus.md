@@ -55,9 +55,8 @@ You'll need to make accounts on the following sites:
 - **Gradescope:** You’ll submit all projects to
   [Gradescope](https://www.gradescope.com/courses/693205). This is where all of
   your grades will live as well. Most of the assignments will be coding
-  assignments. Parts of these assignments will be manually graded, but most of
-  them will be autograded. You should have received an email invitation for
-  Gradescope, but if not please join Gradescope using entry code: B2G6ZN.
+  assignments. You should have received an email invitation for
+  Gradescope, but if not please join Gradescope using entry code: **B2G6ZN**.
 
 - **GitHub:** Like in DSC 30 and 80, you'll _access_ all course content
   (lecture slides and assignments) by _pulling_ our course GitHub repository.
