@@ -38,7 +38,7 @@ The data has seven columns:
 
 The climate data were collected from https://www.usclimatedata.com/.
 
-[dataset]: example.com
+[dataset]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/data/weather.csv
 
 ## Task
 
