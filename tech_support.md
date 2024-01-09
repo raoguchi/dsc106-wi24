@@ -10,9 +10,6 @@ nav_order: 4
 # 🙋‍♂️ Tech Support
 {:.no_toc}
 
-{: .warning }
-**🛠️ Page under construction**
-
 ## Table of contents
 {:.no_toc}
 
@@ -25,13 +22,16 @@ nav_order: 4
 
 ## Introduction
 
-Labs and projects in DSC 106 are mostly coding assignments, so it's important to make sure that your computing environment is set up properly. You will need to use `DataHub` for the first assignment. You will need `Git`, `VSCode`, and `Node` to complete all other labs and projects.
+Labs and projects in DSC 106 are mostly coding assignments, so it's important
+to make sure that your computing environment is set up properly. You will need
+to use `DataHub` for the first lab. You will need `Git`, `VSCode`, and `Node`
+to complete all other labs and projects.
 
 ---
 
 ## Lab1: Working using DataHub
 
-You will use DataHub for the first lab assignment. 
+You will use DataHub for the first lab assignment.
 
 There are servers available to use at
 [datahub.ucsd.edu](datahub.ucsd.edu). These are a lot like the
@@ -85,16 +85,14 @@ within JupyterLab, you can:
 
 3. Log back into DataHub again and it should allow you to select a course – select DSC 106.
 
-
-
 ## Other labs and projects
 
 ### [Git](https://git-scm.com/)
 
-All of our course materials, including your assignments, are hosted on
-GitHub in [this Git repository](https://github.com/dsc-courses/dsc106-wi24). This means that you'll need to download and use
-[Git](https://git-scm.com/) to work with the course
-materials.
+All of our course materials, including your assignments, are hosted on GitHub
+in [this Git repository](https://github.com/dsc-courses/dsc106-wi24). This
+means that you'll need to download and use [Git](https://git-scm.com/) to work
+with the course materials.
 
 Git is a _version control system_. In short, it is used to keep track of
 the history of a project. With Git, you can go back in time to any
@@ -108,10 +106,10 @@ use the command-line version of Git. To get started, you\'ll need to
 
     git clone https://github.com/dsc-courses/dsc106-wi24
 
-This will copy the repository to a directory on your computer. To bring
-in the latest version of the repository, run **`git pull`** in your local repository. This will **not**
-overwrite your work. In fact, Git is designed to make it very difficult
-to lose work (although it\'s still possible!).
+This will copy the repository to a directory on your computer. To bring in the
+latest version of the repository, run **`git pull`** in your local repository.
+This will **not** overwrite your work. In fact, Git is designed to make it very
+difficult to lose work (although it\'s still possible!).
 
 **Merge Conflicts**
 
@@ -129,8 +127,6 @@ At this stage, if you `git pull`, it should work. You should double-check that y
 5. `git add [FILENAME]` to mark each file with a conflict as resolved.
 6. `git rebase --continue` or `git merge`, depending on the setup.
 
-
-
 ### [VS Code](https://code.visualstudio.com/)
 
 To create, write, and edit our code, we are going to use a code editor. For this class, we are going to provide support for VS Code. If you want to use another code editor, feel free to do so, but keep in mind that we may not be able to recreate the problems that you may run into. You may download VS Code from [here](https://code.visualstudio.com/).
@@ -145,16 +141,15 @@ This is an extension that will help us keep our code clean and tidy. Click "Inst
 
 This will host a local server in our workspace for us to preview our web pages on. Click "Install" on the [webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server). It will redirect to your VSCode; then, click "Install" again to install the extension.
 
-
 ## Any question?
 
-The easiest and fastest way to reach our support for technical matters is by posting on [edstem](https://edstem.org/us/courses/51219/discussion/). You may also go to OHs. 
+The easiest and fastest way to reach our support for technical matters is by posting on [edstem](https://edstem.org/us/courses/51219/discussion/). You may also go to OHs.
 
 <!--
 
 ### Svelte for VS Code
 
-This is for Lab 6. Install svelte.svelte-vscode. 
+This is for Lab 6. Install svelte.svelte-vscode.
 
 ## Node.js and npm
 
@@ -169,12 +164,9 @@ node --version
 To check the npm version, type in:
 
 ```bash
-npm --version  
+npm --version
 ```
 
-If everything is installed correctly, you should see the version number information.  
+If everything is installed correctly, you should see the version number information.
 
 -->
-
-
-
