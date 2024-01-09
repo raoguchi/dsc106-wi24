@@ -24,7 +24,7 @@ experience, ranging from personal moods to how an entire region defines itself.
 Here, you will examine a set of average monthly climate measurements for six
 major U.S. cities, roughly covering the edges of the continental United States.
 
-[The dataset can be downloaded here.][dataset]
+[**The dataset can be downloaded here.**][dataset]
 
 The data has seven columns:
 
@@ -36,25 +36,26 @@ The data has seven columns:
 - `sunshine`: The average hours of sunshine observed during that month.
 - `rain`: The average inches of rain observed during that month.
 
-The climate data were collected from https://www.usclimatedata.com/.
+The climate data were collected from [https://www.usclimatedata.com/]().
 
 [dataset]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/data/weather.csv
 
 ## Task
 
-Your task is to design a static (i.e., single image) visualization that you
-believe effectively communicates an idea about the data, and provide a short
-write-up (no more than 4 paragraphs) describing your design. Start by choosing
-a question you'd like your visualization to answer. Design your visualization
-to answer that question, and use the question as the title of your graphic.
+Your task is to design a single static (i.e., single image) visualization
+that you believe effectively communicates an idea about the data, and provide
+a short write-up (no more than 4 paragraphs) describing your design. Start
+by choosing a question you'd like your visualization to answer. **Design your
+visualization to answer that question, and use the question as the title of
+your graphic**.
 
 While you must use the data set given, you are free to transform the data as
 you see fit. Such transforms may include (but are not limited to) log
 transformation, computing percentages or averages, grouping elements into new
 categories, or removing unnecessary variables or records. You are also free to
-incorporate additional external data. Your chart image should be interpretable
-without recourse to your write-up. Do not forget to include title, axis labels,
-or legends as needed!
+incorporate additional external data. **Your chart image should be
+interpretable without needing to reference your write-up**. Do not forget to
+include title, axis labels, or legends as needed!
 
 As different visualizations can emphasize different aspects of a data set, your
 write-up should document what aspects of the data you are attempting to most
@@ -92,7 +93,7 @@ narrative devices.
 ## Submission Details
 
 This is an individual assignment. **You may not work in groups.** Your
-completed assignment is due on Fri 1/19, by 11:59pm.
+completed assignment is due on **Fri 1/19, by 11:59pm**.
 
 You must submit your assignment using Gradescope. Please upload a single image
 file (PNG, JPG) of your visualization design using the correct file
