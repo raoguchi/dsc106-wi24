@@ -17,9 +17,6 @@ nav_order: 1
 
 <!-- [Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } -->
 
-{: .warning }
-**⚠️ This site is under construction! Everything is subject to change. ⚠️**
-
 <!-- {: .note }
 **Dec 6, 2023:** The Final Exam will take place on Mon., Dec 11,
 from 3-6pm in WLH 2005 (our usual lecture room). If 85% of the class fills out
