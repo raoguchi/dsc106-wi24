@@ -16,5 +16,5 @@ days:
   events:
   - name: LAB 1
     type: lab
-    title: Altair
+    title: [Altair](https://docs.google.com/document/d/1fa1cLqJIZdHJmTLzYWm2ZtrOSQYe4oJF3aDywrYQcS0/edit?usp=sharing)
 ---
