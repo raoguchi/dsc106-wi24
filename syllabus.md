@@ -123,24 +123,24 @@ expectations for a particular week:
 1. **Attend both lectures and participate in the lecture exercises.**
    Participation will be tracked using an online form given during class.
 
-2. **Share and critique at least 1 interesting data visualization on Ed that
-   hasn't already been shared during class.** To receive credit, the critique
+2. **Share and critique at least 1 interesting data visualization on Ed under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category that
+   hasn't already been shared during class, labs, or projects.** To receive credit, the critique
    needs to have at least 3 paragraphs of around 3-4 sentences each. The three
    paragraphs should:
-
    1. Summarize the visualization and describe how it connects to a lecture
       concept from the current week or the previous week. If a dataset for the
       visualization is publicly available, provide a link.
    2. Describe the strengths of this particular visualization.
    3. Describe the weaknesses of this particular visualization.
-
+   
 3. **Respond to 2 different visualization critiques from other students on
-   Ed.** To receive credit, each response needs to have at least 2 paragraphs
+   Ed under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category.** To receive credit, each response needs to have at least 2 paragraphs
    of around 3-4 sentences each. The paragraphs should:
-
    1. Explain what parts of the critique you agree and disagree with.
    2. Suggest an improvement for the visualization. You can sketch out your
       improved visualization or write a program to generate it.
+
+⚠️If you choose to fulfill lecture participation through option 2 or 3, you must make a **public** post on EdStem under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category. In the title of your post or response, clearly state that it is being used as an opportunity to fulfill lecture participation. The deadline for submitting critiques to count for the corresponding week is **Sunday at 11:59 PM**.
 
 ### Discussions
 
