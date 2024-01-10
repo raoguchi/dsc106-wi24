@@ -1,4 +1,4 @@
-city,lon,lat,month,monthnum,sunshine,rain
+city,lat,lon,month,monthnum,sunshine,rain
 San Diego,32.715736,-117.161087,Jan,1,217,1.53
 San Diego,32.715736,-117.161087,Feb,2,255,0.15
 San Diego,32.715736,-117.161087,Mar,3,234,0.57
