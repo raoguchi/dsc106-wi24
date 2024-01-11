@@ -13,6 +13,7 @@ days:
       - name: LEC 2
         type: lecture
         title: Data & Image Models
+        url: resources/lectures/02-DSC106-DataImageModels.pdf
   - date: '2024-01-12'
     events:
       - name: LAB 1
