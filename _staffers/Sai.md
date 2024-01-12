@@ -3,7 +3,7 @@ name: Sai
 role: TA
 pronouns: he/him
 email: snelakonda@ucsd.edu
-photo: https://docs.google.com/document/d/1Ut6327NOo5cx07mlBhnKYtxFAwc1npJgYtY4DkZI-r8/edit
+photo: assets/images/Sai.jpg
 ---
 
 Hello everyone! My name is Sai, and I'm currently pursuing my Master's in Business Analytics here in San Diego. My professional aspiration is to excel in the field of Business Data Science, where I have a particular interest in developing applications using Large Language Models (LLMs). I welcome any exciting use case discussions related to LLMs! Before my journey here, I gained experience as a software developer, focusing mainly on front-end development.
