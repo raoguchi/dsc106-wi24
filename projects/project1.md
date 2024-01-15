@@ -95,7 +95,7 @@ work by an outside reviewer (e.g. a professional data scientist), but probably
 wouldn’t be outstanding or memorable. Getting a 9/10 on the project grade
 reflects that.
 
-Project that go "above and beyond" the assignment requirements to produce
+Projects that go "above and beyond" the assignment requirements to produce
 effective graphics may include, for example, outstanding visual design,
 meaningful incorporation of external data to reveal important trends,
 exceptional creativity, or effective annotations and other narrative devices.
