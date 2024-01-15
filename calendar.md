@@ -7,8 +7,6 @@ nav_order: 3
 
 # 📆 Calendar
 
-{: .warning }
-**🛠️ Page under construction**
 
 
 Lectures (<span style="color:#875509"><b>yellow</b></span>) are held in [CENTR 119](https://maps.app.goo.gl/khrN9ekr5LCGdCdM7). There is no discussion section. 

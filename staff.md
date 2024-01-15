@@ -7,8 +7,6 @@ nav_order: 6
 
 # 👩‍🏫 Staff
 
-{: .warning }
-**🛠️ Page under construction**
 
 ## Instructor
 
