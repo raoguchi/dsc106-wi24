@@ -73,7 +73,7 @@ facilitate effective communication?
 ## Grading
 
 The assignment score is out of a maximum of 10 points. The expected median
-score on this assignment has been 8.5, which corresponds to an A-. We will
+score on this assignment is an 8.5, which corresponds to an A-. We will
 determine scores by judging both the soundness of your design and the quality
 of the write-up. We will also look for consideration of audience, message, and
 intended task. Here are examples of aspects that may lead to point deductions:
@@ -84,11 +84,21 @@ intended task. Here are examples of aspects that may lead to point deductions:
 - Ineffective encodings for your stated goal (e.g., distracting colors,
   improper data transformation).
 
-We will reward entries that go above and beyond the assignment requirements to
-produce effective graphics. Examples may include outstanding visual design,
+Your project will get 9/10 points if you fulfill all the requirements in the
+project description. You’ll get higher than 9 points if you go above and beyond
+the project requirements, up to 10 points. We’ll possibly give even higher than
+10 points if the work is truly exceptional (e.g. could be published in a
+popular news article). From our perspective, the project description tells you
+how to get a passing grade on the project — if you followed the description and
+published your work as part of a portfolio, it would be considered good quality
+work by an outside reviewer (e.g. a professional data scientist), but probably
+wouldn’t be outstanding or memorable. Getting a 9/10 on the project grade
+reflects that.
+
+Project that go "above and beyond" the assignment requirements to produce
+effective graphics may include, for example, outstanding visual design,
 meaningful incorporation of external data to reveal important trends,
-demonstrating exceptional creativity, or effective annotations and other
-narrative devices.
+exceptional creativity, or effective annotations and other narrative devices.
 
 ## Submission Details
 
