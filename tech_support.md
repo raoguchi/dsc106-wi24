@@ -28,7 +28,7 @@ to use `DataHub` for the first lab. You will need `Git`, `VSCode`, and `Node`
 to complete all other labs and projects.
 
 ---
-
+<!-- 
 ## Lab1: Working using DataHub
 
 You will use DataHub for the first lab assignment.
@@ -85,7 +85,7 @@ within JupyterLab, you can:
 
 3. Log back into DataHub again and it should allow you to select a course – select DSC 106.
 
-## Other labs and projects
+## Other labs and projects -->
 
 ### [Git](https://git-scm.com/)
 
