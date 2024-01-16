@@ -18,6 +18,25 @@ For online office hours (<span style="color:#333333"><b>black</b></span>), click
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&src=Y19iM2FiMzYxYzBiNGQzNTA1ODZkMzc3YTYzYWY5ODNiZjE4ZjE5ZGU4NjAxOWI4MDI0NDQ3MGJjM2I0MDRhNGExQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y181MGUwMjM2NWNjZDIxZDYxNGJkYzliZDU4NTk0NmE0Yjk0NjkwZTFhOTBkMWFkNWY5ZGEyYmJmNmI1OWRjNjQ0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F6BF26&color=%23616161" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+Sam's office hours are for general questions. The TAs' office hours are specifically for lab checkoffs. Please sign up for one of the TAs' office hours using the link below before Monday at 3 PM. Each TA's office hours are limited to a maximum of 30 people. We encourage you to start working on the lab early and aim to present your work earlier rather than on the last day. You must attend the office hours you registered for to present your work; failure to do so will result in the loss of the opportunity to earn lab checkoff grades. If you require special accommodations, please let us know, and we will try to arrange an alternative time for you. 
+
+**Giorgia Nicolaou:** https://forms.gle/dZV4tbNhLrBWe36P9 
+
+**Shaokang Jiang:** https://forms.gle/KZaMK5HXD1iqEEh1A 
+
+**Vanchy:**
+
+Thursday (Virtual) https://forms.gle/7zPf1vgQf7ott78dA
+
+Friday (In-person) https://forms.gle/L3ELCdnvYhdts8JU7
+
+**Deevanshu Goyal:** https://forms.gle/LVtvfLm69qz29QDG6
+
+**Gurpreet Saluja:** https://forms.gle/UTSxbm9skRjGdusJ9
+
+
+
+
 
 <!-- Lectures (<span style="color:blue"><b>blue</b></span>) are held in [Warren Lecture Hall 2005](https://maps.app.goo.gl/5f615DJPWYUj8xfZA). Discussions (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall 115](https://www.google.com/maps/place/Center+Hall/@32.8767436,-117.2368927,17z/data=!4m12!1m5!3m4!2zMzLCsDUyJzQ4LjQiTiAxMTfCsDE0JzMxLjIiVw!8m2!3d32.8801111!4d-117.242!3m5!1s0x80dc06c43a8ab30b:0xd7aa5719af666fb!8m2!3d32.8775468!4d-117.2374084!16s%2Fg%2F1q6jj7xsd?entry=ttu).
 
