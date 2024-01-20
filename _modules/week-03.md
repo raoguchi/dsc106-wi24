@@ -17,5 +17,5 @@ days:
   - name: LAB 3
     type: lab
     title: JavaScript, SVG
-    url: https://github.com/dsc-courses/dsc106-wi24/blob/gh-pages/_modules/week-02.md
+    url: https://docs.google.com/document/d/1nPsfu6NNnvaJeDo4Bc0gMb6etHPZN2_6nOOckkeJjPo/edit?usp=sharing
 ---
