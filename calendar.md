@@ -34,7 +34,7 @@ Friday (In-person) https://forms.gle/L3ELCdnvYhdts8JU7
 
 **Gurpreet Saluja:** https://forms.gle/UTSxbm9skRjGdusJ9
 
-
+**Aditya Mandke:** https://forms.gle/AomrNMXFKdWaLb1ZA
 
 
 
