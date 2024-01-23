@@ -6,7 +6,8 @@ days:
   events:
   - name: LEC 5
     type: lecture
-    title: Exploratory Data Analysis
+    title: Color
+    url: resources/lectures/05-DSC106-Color.pdf
 - date: '2024-01-25'
   events:
   - name: LEC 6
