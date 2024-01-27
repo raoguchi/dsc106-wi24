@@ -17,6 +17,7 @@ days:
   - name: LAB 4
     type: lab
     title: Svelte
+    url: https://docs.google.com/document/d/1uIu7kziljcFVe_4JebsDhT2VcGhyNaUthisg7qyjokM/edit?usp=sharing
   - name: PROJ 2
     type: proj
     title: 'Project 2: Deceptive Visualization'
