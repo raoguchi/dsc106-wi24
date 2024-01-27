@@ -10,6 +10,9 @@ nav_order: 4
 # 🙋‍♂️ Tech Support
 {:.no_toc}
 
+{: .warning }
+We recently updated this page to accommodate the necessity of using Svelte and NPM starting from Lab 4. 
+
 ## Table of contents
 {:.no_toc}
 
@@ -141,19 +144,13 @@ This is an extension that will help us keep our code clean and tidy. Click "Inst
 
 This will host a local server in our workspace for us to preview our web pages on. Click "Install" on the [webpage](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server). It will redirect to your VSCode; then, click "Install" again to install the extension.
 
-## Any question?
+### [Svelte for VS Code](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
 
-The easiest and fastest way to reach our support for technical matters is by posting on [edstem](https://edstem.org/us/courses/51219/discussion/). You may also go to OHs.
-
-<!--
-
-### Svelte for VS Code
-
-This is for Lab 6. Install svelte.svelte-vscode.
+Starting Lab4, you are going to use Svelte. This will help you with svelte components. Click "Install" on the [webpage](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode). It will redirect to your VSCode; then, click "Install" again to install the extension.
 
 ## Node.js and npm
 
-Again, for Lab 6, we are going to need node.js and npm. Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. NPM – or "Node Package Manager" – is the default package manager for JavaScript's runtime Node.js. You may find detailed instructions to download and install them [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-installer-to-install-nodejs-and-npm).
+Again, for Lab 4, we are going to need node.js and npm. Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser. NPM – or "Node Package Manager" – is the default package manager for JavaScript's runtime Node.js. You may find detailed instructions to download and install them [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm#using-a-node-installer-to-install-nodejs-and-npm).
 
 To check the Node version, open a command prompt and type:
 
@@ -169,4 +166,8 @@ npm --version
 
 If everything is installed correctly, you should see the version number information.
 
--->
+
+## Any question?
+
+The easiest and fastest way to reach our support for technical matters is by posting on [edstem](https://edstem.org/us/courses/51219/discussion/). You may also go to OHs.
+
