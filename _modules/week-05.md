@@ -20,4 +20,5 @@ days:
   - name: LAB 5
     type: lab
     title: D3
+    url: https://docs.google.com/document/d/1vR3pcly_Hq-tjYfku33eJpXrEqfhsNWYtvoqXZolZ-Q/edit?usp=sharing
 ---
