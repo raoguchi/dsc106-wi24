@@ -24,7 +24,7 @@ One challenge is to **scope the assignment so that you can finish it within two 
 
 For this assignment, you should work in teams of 2-3 students. You might want to find project partners that you will continue to work with for the final project.
 
-As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**.  If you are looking for project partners, please post to Ed to find classmates with similar interests! **You should submit your team registration by Mon 02/05, 11:55 pm.**
+As soon as you have formed a team and chosen a dataset, submit the [team registration form][link5]. Your form must include **the names, UCSD email addresses, and PIDs** of each team member, along with a **concise title for your interactive visualization**. The visualization title need not be exact, **just a rough title should be a good start**. If you are looking for project partners, please post to Ed to find classmates with similar interests! **You should submit your team registration by Mon 02/05, 11:55 pm.**
 
 You will submit your interactive prototype as a webpage hosted on [GitHub Pages][link6].
 
@@ -37,7 +37,7 @@ Design an interactive graphic aimed at enabling understanding of a compelling qu
 
 Your graphic must include interactions that enable exploration. Possible techniques include panning, zooming, brushing, details-on-demand (e.g., tooltips), dynamic query filters, and selecting different measures to display. You are free to also consider highlights, annotations, or other narrative features intended to draw attention to particular items of interest and provide additional context.
 
-Implement your interactive graphic and deploy it to the web. We expect you to **use only D3.js** for this project, **vega-lite/plotly/altair/any other libraries or tools** are **strictly not allowed** for this project. Your graphic should not require customized server-side support; you should simply load data from a static data file or public web API.
+Implement your interactive graphic and deploy it to the web. You may **only use only D3.js** for this project. **Vega-lite/Plotly/Altair/any other high-level plotting library or tool** are **strictly not allowed** for this project. You can use other non-plotting related JavaScript libraries, e.g. Lodash, Svelte, Moment, etc. Your graphic should not require customized server-side support; you should simply load data from a static data file or public web API.
 
 You will use [GitHub pages to host your visualization][link7] from your project repository. We recommend keeping everything (development files and website) in your master branch: either serve your website from the root folder or the "/docs" folder. Your repo must also contain the (unobfuscated) source code for your visualization.
 
@@ -83,7 +83,7 @@ Submissions will be reviewed as part of a subsequent peer review assignment (due
 
 ## Suggested Data Sources
 
-To help get you started, this assignment, we’ve provided three possible datasets for you to use, although you're welcome to select any dataset you prefer.
+To help get you started, this assignment, we’ve provided three possible datasets for you to use, although you're welcome to select any dataset you prefer. Note that these datasets are the same as the ones from Project 2. Feel free to reuse the dataset you used in Project 2 to speed up your development process.
 
 ### Data on Energy by Our World in Data, 1900-2022
 
