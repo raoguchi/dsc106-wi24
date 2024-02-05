@@ -28,7 +28,7 @@ Next, author constructive critiques for each visualization design. Consider the 
 
 To share critique, we will use the ["I like / I wish / What if?"][link] format. This involves sharing positive feedback on effective aspects, critical (but respectful!) feedback on what might be improved, and more wild (even half-baked) ideas your fellow students could explore in subsequent design iterations or future work. For each visualization, you must provide at least two statements in each of the I like / I wish / What if? categories.
 
-[link]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/reading/I-Like-I-Wish-What-If
+[link]: https://github.com/dsc-courses/dsc106-wi24/raw/gh-pages/resources/reading/I-Like-I-Wish-What-If.pdf
 
 ## Submission Details
 
