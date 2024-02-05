@@ -17,6 +17,7 @@ days:
   - name: PROJ 2
     type: proj
     title: Project 2 Peer Review
+    url: projects/project2peer
   - name: LAB 5
     type: lab
     title: D3
