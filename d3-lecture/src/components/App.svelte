@@ -12,7 +12,6 @@
   onMount(async () => {
     const res = await fetch(
       'https://dsc106.com/resources/data/temperatures.csv',
-      // 'https://static.observableusercontent.com/files/a6f8018172231770fcb74b515ac8f7d1e40f466f22190c2e89f7621087b4b02a21e5e9a7f20ccb9563055aa1ed16d95b448e7e6dc6d5e7bd096a72a4de0f002d',
     );
     const csv = await res.text();
     await d3.csvParse(csv, (d, i, columns) => {
