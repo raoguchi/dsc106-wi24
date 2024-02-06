@@ -8,14 +8,14 @@ parent: '📝 Projects'
 
 For this assignment, you will explore the issues involved in implementing interactive visualizations. You will build a visualization that enables interactive exploration of a dataset of your choosing (we do have some suggestions as well which you can find below) and deploy it on the web.
 
-One goal of this assignment is to gain familiarity with implementing interaction techniques for visualizations. For example, the [zipdecode][link] and [NameVoyager][link1] applications apply the interactive technique of dynamic queries – as explored in the earlier [HomeFinder][link2] application – to the problem of uncovering patterns in zip codes and baby names.
+One goal of this assignment is to gain familiarity with implementing interaction techniques for visualizations. For example, the [zipdecode][link] and [NameGrapher][link1] applications apply the interactive technique of dynamic queries – as explored in the earlier [HomeFinder][link2] application – to the problem of uncovering patterns in zip codes and baby names.
 
 Similarly, [treemaps][link3] were originally developed to display hierarchical file structures and were later adapted to the problem of interactively depicting a [map of the stock market][link4]. We have seen many other examples of interactive visualization techniques in class. The goal of this assignment is not only for you to gain hands-on implementation experience, but also for you to think about the effectiveness of the specific techniques for your chosen data domain.
 
-One challenge is to **scope the assignment so that you can finish it within two weeks**. Focus on designing a limited yet compelling visualization that enables interactive exploration along a few critical dimensions. The [NameVoyager][link1] application is a nice example that uses a simple but elegant interaction design to enable engaging explorations. **A tightly focused, well-implemented interactive graphic is much preferred to a sprawling design that attempts too much!**
+One challenge is to **scope the assignment so that you can finish it within two weeks**. Focus on designing a limited yet compelling visualization that enables interactive exploration along a few critical dimensions. The [NameGrapher][link1] application is a nice example that uses a simple but elegant interaction design to enable engaging explorations. **A tightly focused, well-implemented interactive graphic is much preferred to a sprawling design that attempts too much!**
 
 [link]: http://benfry.com/zipdecode/
-[link1]: https://web.archive.org/web/20211107232302/https://www.babynamewizard.com/namevoyager-expert
+[link1]: https://namerology.com/baby-name-grapher/
 [link2]: http://www.cs.umd.edu/hcil/spotfire/
 [link3]: http://www.cs.umd.edu/hcil/treemap/
 [link4]: http://www.bewitched.com/marketmap.html
