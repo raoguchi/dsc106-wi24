@@ -13,6 +13,7 @@ days:
       - name: LEC 10
         type: lecture
         title: Maps
+        url: resources/lectures/09-DSC106-Maps.pdf
   - date: '2024-02-09'
     events:
       - name: PROJ 2
