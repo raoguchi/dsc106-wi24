@@ -27,8 +27,10 @@ nav_order: 5
 
 ## Learning D3
 
-- [Intro to D3.js](https://yangdanny97.github.io/intro-to-d3/)
+- [D3 Gallery](https://observablehq.com/@d3/gallery)
 - [D3 in Depth](https://www.d3indepth.com/)
+- [Intro to D3.js](https://yangdanny97.github.io/intro-to-d3/)
+- [Interactive Charts with D3](https://wattenberger.netlify.app/)
 
 ## Visualization Principles
 
