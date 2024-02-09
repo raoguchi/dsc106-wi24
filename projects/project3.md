@@ -39,7 +39,7 @@ Your graphic must include interactions that enable exploration. Possible techniq
 
 Implement your interactive graphic and deploy it to the web. You may **only use only D3.js** for this project. **Vega-lite/Plotly/Altair/any other high-level plotting library or tool** are **strictly not allowed** for this project. You can use other non-plotting related JavaScript libraries, e.g. Lodash, Svelte, Moment, etc. Your graphic should not require customized server-side support; you should simply load data from a static data file or public web API.
 
-You will use [GitHub pages to host your visualization][link7] from your project repository. We recommend keeping everything (development files and website) in your master branch: either serve your website from the root folder or the "/docs" folder. Your repo must also contain the (unobfuscated) source code for your visualization.
+You will use [GitHub pages to host your visualization][link7] from your project repository. **Make sure that you make your repository "Public"**. We recommend keeping everything (development files and website) in your master branch: either serve your website from the root folder or the "/docs" folder. Your repo must also contain the (unobfuscated) source code for your visualization.
 
 Your deployed web page should also include a write-up with the following components:
 
