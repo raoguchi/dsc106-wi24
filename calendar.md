@@ -12,7 +12,7 @@ nav_order: 3
 Lectures (<span style="color:#875509"><b>yellow</b></span>) are held in [CENTR 119](https://maps.app.goo.gl/khrN9ekr5LCGdCdM7). There is no discussion section. 
 
 In-person office hours (<span style="color:#875509"><b>yellow</b></span>) are
-held in the HDSI building [Halıcıoğlu Data Science Institute Room 155](https://www.google.com/maps/place/Hal%C4%B1c%C4%B1o%C4%9Flu+Data+Science+Institute/@32.8805676,-117.2363991,17z/data=!3m2!4b1!5s0x80dc06c1dfc237df:0x2baefc1d5cbb43f3!4m6!3m5!1s0x80dc06c1fb192bcb:0x94d4894527b99b21!8m2!3d32.8805631!4d-117.2338242!16s%2Fg%2F11f4_xtk0f?entry=ttu). There will be two separate queues for lab checkoffs and general questions.
+held in the HDSI building [Halıcıoğlu Data Science Institute Room 355](https://www.google.com/maps/place/Hal%C4%B1c%C4%B1o%C4%9Flu+Data+Science+Institute/@32.8805676,-117.2363991,17z/data=!3m2!4b1!5s0x80dc06c1dfc237df:0x2baefc1d5cbb43f3!4m6!3m5!1s0x80dc06c1fb192bcb:0x94d4894527b99b21!8m2!3d32.8805631!4d-117.2338242!16s%2Fg%2F11f4_xtk0f?entry=ttu). There will be two separate queues for lab checkoffs and general questions.
 
 For online office hours (<span style="color:#333333"><b>black</b></span>), click on each slot to get the Zoom link for each person's office hours. We will try to arrange the first hour for questions and the second hour for checkoffs.
 
