@@ -21,4 +21,5 @@ days:
   - name: LAB 6
     type: lab
     title: Mapbox.js
+    url: https://docs.google.com/document/d/14fp1UrQjDtOGQ6qNTSLOlBS2LhBg62POGgY908SCZHo/edit?usp=sharing
 ---
