@@ -20,7 +20,7 @@ For online office hours (<span style="color:#333333"><b>black</b></span>), click
 
 Sam's office hours are for general questions. The TAs' office hours are specifically for lab checkoffs. Please sign up for one of the TAs' office hours using the link below before Monday at 3 PM. 
 
-[https://docs.google.com/spreadsheets/d/1hWtVC-zuXuX5_HO4KHlLjyoVZE6_CUzjxyVRZzm-gbs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hWtVC-zuXuX5_HO4KHlLjyoVZE6_CUzjxyVRZzm-gbs/edit?usp=sharing)
+[https://docs.google.com/spreadsheets/d/16etkY7eaq-gBkuEMPWiQZaRqZFke4lNBmdT1wHvQUWg/edit](https://docs.google.com/spreadsheets/d/16etkY7eaq-gBkuEMPWiQZaRqZFke4lNBmdT1wHvQUWg/edit)
 
 <!-- Lectures (<span style="color:blue"><b>blue</b></span>) are held in [Warren Lecture Hall 2005](https://maps.app.goo.gl/5f615DJPWYUj8xfZA). Discussions (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall 115](https://www.google.com/maps/place/Center+Hall/@32.8767436,-117.2368927,17z/data=!4m12!1m5!3m4!2zMzLCsDUyJzQ4LjQiTiAxMTfCsDE0JzMxLjIiVw!8m2!3d32.8801111!4d-117.242!3m5!1s0x80dc06c43a8ab30b:0xd7aa5719af666fb!8m2!3d32.8775468!4d-117.2374084!16s%2Fg%2F1q6jj7xsd?entry=ttu).
 
