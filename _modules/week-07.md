@@ -20,4 +20,5 @@ days:
   - name: LAB 7
     type: lab
     title: Scrollytelling
+    url: https://docs.google.com/document/d/10TDk-w33bq2A4jOf-BJxlrOYDI7W48zm6zccSMUcRe0/edit?usp=sharing
 ---
