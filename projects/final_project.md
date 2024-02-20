@@ -18,7 +18,7 @@ Prior to diving in, it is helpful to gain a sense of what goes into formulating 
 
 Your task is to create an Explorable Explanation: an interactive article that explains a complex subject to the reader. The topic could be a scientific phenomenon, a computer science algorithm, a mathematical concept, a sociological theory, or some other topic that you're passionate about. Focus on creating one or more interactive diagrams interlinked with explanatory text or annotations. We urge you to focus on a highly visual and/or interactive experience, as opposed to expecting a viewer to read large amounts of article text.
 
-SOme useful references are:
+Some useful references are:
 
 - [Harry Stevens' simulitis visualizations][link2]
 - [Visualizations of the Boston subway system][link3]
