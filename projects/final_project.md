@@ -6,7 +6,7 @@ parent: '📝 Projects'
 
 # Final Project
 
-The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations. Your project should address a concrete visualization challenge and should propose a novel, creative solution. The final deliverable will take the form of an explorable explanation, deployed as an interactive web page. Project teams should consist of 3-4 people.
+The final project will provide hands-on experience designing, implementing, and deploying interactive visualizations. Your project should address a concrete visualization challenge and should propose a novel, creative solution. The final deliverable will take the form of an explorable explanation, deployed as an interactive web page. Project teams should consist of 2-3 people.
 
 In addition to your webpage, you will be responsible for presenting your final results. At the end of the quarter we will have a video showcase for you to share your work.
 
