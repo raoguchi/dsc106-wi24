@@ -8,7 +8,7 @@ days:
         type: lecture
         title: D3.js
         url: resources/lectures/08-DSC106-D3.pdf
-        resources: >
+        reading: >
           [Code](https://github.com/dsc-courses/dsc106-wi24/tree/main/d3-lecture)
   - date: '2024-02-08'
     events:
