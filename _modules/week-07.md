@@ -12,12 +12,14 @@ days:
     events:
       - name: LEC 14
         type: lecture
-        title: Animation
+        title: JavaScript and Svelte
+        url: resources/lectures/13-DSC106-JSandSvelte.pdf
   - date: '2024-02-23'
     events:
-      - name: PROJ 3
+      - name: FINAL PROJ
         type: proj
-        title: Project 3 Peer Review, Final Project Proposal
+        title: Final Project Proposal
+        url: https://forms.gle/gJ6jncs83GDgrWiG9
       - name: LAB 7
         type: lab
         title: Scrollytelling
