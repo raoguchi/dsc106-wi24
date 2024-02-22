@@ -82,7 +82,7 @@
   }
 
   //////////////////////////////////////////////////////////////////////////////
-  // Tooltip code
+  // Tooltip
   //////////////////////////////////////////////////////////////////////////////
   const tooltipW = 180;
   const tooltipH = 200;
@@ -130,7 +130,7 @@
     {/each}
   </g>
 
-  {#if selectedArea}
+  {#if selectedArea != null}
     <g
       class="tooltip"
       transform="translate({mousePosition[0] - tooltipW - 5},{mousePosition[1] -
