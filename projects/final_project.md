@@ -38,7 +38,10 @@ Some useful references are:
 
 The final project consists of the following milestones:
 
-- **Proposal (Fri 02/23, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Complete the registration form (one per team, [Registration Link][link8]).
+- **Proposal (Fri 02/23, 11:59pm, Can Use Slip Days)**. Propose your chosen topic, dataset(s), and team members. Complete the registration form (one per team, [Registration Link][link8]). We need the following information in the project proposal:
+    - Project Title
+    - Dataset
+    - Brief writeup of what you intend to do (5-10 lines). 
 
 - **Initial Prototype (Fri 03/01, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
 
