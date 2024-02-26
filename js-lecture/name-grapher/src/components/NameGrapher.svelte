@@ -12,9 +12,16 @@
   const marginBottom = 20;
   const marginLeft = 40;
 
+  //////////////////////////////////////////////////////////////////////////////
+  // Data manipulation
+  //////////////////////////////////////////////////////////////////////////////
   let prefix = 'sam';
   let filteredData;
   filteredData = data.filter((d) => d.name.toLowerCase().startsWith(prefix));
+
+  //////////////////////////////////////////////////////////////////////////////
+  // d3 scales
+  //////////////////////////////////////////////////////////////////////////////
 
   // This is a complicated bit of code to get d3.stack() to work. We essentially
   // want to group by year, name, and sex, then stack the counts for each year.
@@ -58,6 +65,10 @@
     .y0((d) => y(d[0]))
     .y1((d) => y(d[1]));
 
+  //////////////////////////////////////////////////////////////////////////////
+  // Helper functions
+  //////////////////////////////////////////////////////////////////////////////
+
   function name(key) {
     return key.split('~')[0];
   }
@@ -68,9 +79,11 @@
 </script>
 
 <svg {width} {height} viewBox="0 0 {width} {height}">
-  {#each series as d}
-    <path d={area(d)} fill={color(sex(d.key))} />
-  {/each}
+  <g stroke="lightgray" stroke-width="0.5">
+    {#each series as d}
+      <path d={area(d)} fill={color(sex(d.key))} />
+    {/each}
+  </g>
 </svg>
 
 <style>

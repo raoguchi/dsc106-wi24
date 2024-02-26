@@ -2,7 +2,9 @@
   import * as d3 from 'd3';
   import { onMount } from 'svelte';
 
-  import NameGrapher from './NameGrapher03.svelte';
+  // Change './NameGrapher.svelte' to './NameGrapher03.svelte' to see final
+  // result
+  import NameGrapher from './NameGrapher.svelte';
 
   let data = [];
 
