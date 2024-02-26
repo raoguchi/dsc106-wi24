@@ -45,7 +45,7 @@ course content. There are also a few things you'll need to do to get set up.
 
 ### Websites
 
-You'll need to make accounts or join the class on the following sites. 
+You'll need to make accounts or join the class on the following sites.
 
 - **Ed:** We’ll be using Ed as our course message and discussion board. More
   details are in the [Communication](#communication-) section below. If you
@@ -68,7 +68,7 @@ You'll need to make accounts or join the class on the following sites.
 
 Note that we will not be using Canvas for anything this quarter.
 
-⚠️If you enroll in the class later than 1/5, please join edsteam use [this link](https://edstem.org/us/join/6jfeKP) and join Gradescope using entry code: **B2G6ZN** manually. 
+⚠️If you enroll in the class later than 1/5, please join edsteam use [this link](https://edstem.org/us/join/6jfeKP) and join Gradescope using entry code: **B2G6ZN** manually.
 
 ### Development Environment
 
@@ -127,12 +127,13 @@ expectations for a particular week:
    hasn't already been shared during class, labs, or projects.** To receive credit, the critique
    needs to have at least 3 paragraphs of around 3-4 sentences each. The three
    paragraphs should:
+
    1. Summarize the visualization and describe how it connects to a lecture
       concept from the current week or the previous week. If a dataset for the
       visualization is publicly available, provide a link.
    2. Describe the strengths of this particular visualization.
    3. Describe the weaknesses of this particular visualization.
-   
+
 3. **Respond to 2 different visualization critiques from other students on
    Ed under the [Critiques](https://edstem.org/us/courses/51219/discussion/?category=Critiques) category.** To receive credit, each response needs to have at least 2 paragraphs
    of around 3-4 sentences each. The paragraphs should:
@@ -231,14 +232,14 @@ schedule (which is subject to change in any given week):
 
 Here is how we'll compute your grade:
 
-| Component     | Weight | Notes                                  |
-| ------------- | ------ | -------------------------------------- |
-| Participation | 8%     | 1% per week, 2 lowest weeks dropped    |
-| Labs          | 12%    | 2% per lab, 1 lowest lab dropped       |
-| Project 1     | 10%    |                                        |
-| Project 2     | 15%    | 10% for submission, 5% for peer review |
-| Project 3     | 15%    | 10% for submission, 5% for peer review |
-| Final Project | 40%    |                                        |
+| Component     | Weight | Notes                                                          |
+| ------------- | ------ | -------------------------------------------------------------- |
+| Participation | 8%     | 1% per week, 2 lowest weeks dropped                            |
+| Labs          | 12%    | 2% per lab, 1 lowest lab dropped                               |
+| Project 1     | 10%    |                                                                |
+| Project 2     | 15%    | 10% for submission, 5% for peer review                         |
+| Project 3     | 15%    | 10% for submission, 5% for peer review                         |
+| Final Project | 40%    | 3% for proposal, 7% prototype, 15% video, 15% final submission |
 
 ### Late Policy, Slip Days, and Drops
 
