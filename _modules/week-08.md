@@ -8,6 +8,8 @@ days:
         type: lecture
         title: Animation
         url: resources/lectures/14-DSC106-Animation.pdf
+        reading: >
+          [Code](https://github.com/dsc-courses/dsc106-wi24/tree/main/js-lecture/name-grapher)
   - date: '2024-02-29'
     events:
       - name: LEC 16
