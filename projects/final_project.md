@@ -45,6 +45,20 @@ The final project consists of the following milestones:
 
 - **Initial Prototype (Fri 03/01, 11:59pm, Can Use Slip Days)**. Develop an initial prototype of your project and, similar to Project 3, publish it using GitHub pages. This prototype will be used by the course staff to provide feedback on your designs. It is expected that your project will not yet be in a "complete" state; however, by this point you should have the structure of your project laid out, rough prototypes of your main visualization(s) and interactions, and at least basic descriptive text. Each team should submit the URL for their project on Gradescope.
 
+Rubric for Initial Prototype:
+
+- Webpage: 1 Point
+- GitHub Repo: 1 Point
+- Visualization: 3 Points
+- Writeup: 2 Points
+
+| **Component**     | **Complete**                                                                                                                                                                                                               | **Incomplete**                                                                                                      | **Missing**                                        |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **Webpage**       | The submitted URL leads to a web page. (1 pt)                                                                                                                                                                              |                                                                                                                     | The URL is missing or leads to a 404 error. (0 pt) |
+| **Github Repo**   | The project has a public-facing GitHub repo. (1 pt)                                                                                                                                                                        |                                                                                                                     | No GitHub repo available. (0 pt)                   |
+| **Visualization** | The page has at least 1 visualization on the screen with at least 1 working interaction. (3 pts)                                                                                                                           | The page has at least one visualization, but the visualization doesn’t have an interaction. (1.5 pts)               | No visualization is working on the page. (0 pt)    |
+| **Writeup**       | The web page writeup contains at least 4 sentences for each of the following questions (≥8 sentences total): 1. What have you done so far? 2. What will be the most challenging of your project to design and why? (2 pts) | The description answered one out of two questions, or didn’t provide at least 4 sentences for each question. (1 pt) | The description is missing. (0 pt)                 |
+
 - **Demo Video (Fri 03/08, 11:59pm, Can Use Slip Days)**. You must produce a demo video (not to exceed 2 minutes in length) that introduces and explains your project. Your video can take the form of a narrated demo of your project, and may include additional content as you see fit. We will share the videos in class on 03/14. More information about preparing the video is available in the project deliverables section.
 
 - **Deliverables (Sat 03/16, 11:59pm)**. Publish your final project web page. You may make final touches to your page after any feedback from our video session. More information about preparing the final deliverables is available in the project deliverables section.
