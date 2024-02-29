@@ -15,6 +15,7 @@ days:
       - name: LEC 16
         type: lecture
         title: Uncertainty
+        url: resources/lectures/15-DSC106-Uncertainty.pdf
   - date: '2024-03-01'
     events:
       - name: FINAL PROJ
