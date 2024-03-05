@@ -7,6 +7,7 @@ days:
       - name: LEC 17
         type: lecture
         title: Evaluation & Review
+        url: resources/lectures/16-DSC106-Evaluation-Review.pdf
   - date: '2024-03-07'
     events:
       - name: LEC 18
